@@ -1,0 +1,63 @@
+Nom : Jeans Vert
+Marque : One Green Elephant
+Rayon : F4
+Historique des prix :
+2 février 2019 :
+Promo : DESTOCKAGE - 50.0
+39.9 euros à partir de 1 unités
+34.9 euros à partir de 3 unités
+29.9 euros à partir de 5 unités
+
+3 janvier 2019 :
+Promo : SOLDE - 30.0
+55.9 euros à partir de 1 unités
+48.9 euros à partir de 3 unités
+41.9 euros à partir de 5 unités
+
+3 décembre 2018 :
+79.9 euros à partir de 1 unités
+69.9 euros à partir de 3 unités
+59.9 euros à partir de 5 unités
+
+Le prix du jeans vert le 2 janvier 2019 :
+
+79.9 euros à partir de 1 unités
+69.9 euros à partir de 3 unités
+59.9 euros à partir de 5 unités
+
+Le prix du jeans vert le 3 janvier 2019 :
+
+Promo : SOLDE - 30.0
+55.9 euros à partir de 1 unités
+48.9 euros à partir de 3 unités
+41.9 euros à partir de 5 unités
+
+Le prix du jeans vert le 4 janvier 2019 :
+
+Promo : SOLDE - 30.0
+55.9 euros à partir de 1 unités
+48.9 euros à partir de 3 unités
+41.9 euros à partir de 5 unités
+
+Le prix du jeans vert le 2 févrrier 2019 :
+
+Promo : DESTOCKAGE - 50.0
+39.9 euros à partir de 1 unités
+34.9 euros à partir de 3 unités
+29.9 euros à partir de 5 unités
+
+Le prix du jeans vert le 5 févrrier 2019 :
+
+Promo : DESTOCKAGE - 50.0
+39.9 euros à partir de 1 unités
+34.9 euros à partir de 3 unités
+29.9 euros à partir de 5 unités
+
+Le prix du jeans vert le 2 décembre 2018 :
+
+exceptions.PrixNonDisponibleException
+	at domaine.Produit.getPrix(Produit.java:69)
+	at tests.TestProduit.main(TestProduit.java:81)
+exceptions.DateDejaPresenteException
+	at domaine.Produit.ajouterPrix(Produit.java:53)
+	at tests.TestProduit.main(TestProduit.java:91)
